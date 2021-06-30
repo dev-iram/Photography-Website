@@ -1,4 +1,6 @@
 # Photoistic-Website
+![photoistic website](https://user-images.githubusercontent.com/22479692/124032051-fbcf2580-d9ef-11eb-8116-805a9e5c12bb.png)
+
 
 ## Assignment Brief
 
